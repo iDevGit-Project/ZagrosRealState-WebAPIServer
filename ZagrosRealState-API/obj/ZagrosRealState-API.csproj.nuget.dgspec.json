@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\iDevTeam\\Desktop\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API\\ZagrosRealState-API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\iDevTeam\\Desktop\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API\\ZagrosRealState-API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iDevTeam\\Desktop\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API\\ZagrosRealState-API.csproj",
+        "projectName": "ZagrosRealState-API",
+        "projectPath": "C:\\Users\\iDevTeam\\Desktop\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API\\ZagrosRealState-API.csproj",
+        "packagesPath": "C:\\Users\\iDevTeam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iDevTeam\\Desktop\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iDevTeam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

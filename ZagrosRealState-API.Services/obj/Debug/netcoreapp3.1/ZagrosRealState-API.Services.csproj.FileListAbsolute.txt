@@ -1,0 +1,9 @@
+C:\Users\iDevTeam\Desktop\Project\WebProject\Zagros RealState\RealState_WebAPI\ZagrosRealState-API\ZagrosRealState-API.Services\bin\Debug\netcoreapp3.1\ZagrosRealState-API.Services.deps.json
+C:\Users\iDevTeam\Desktop\Project\WebProject\Zagros RealState\RealState_WebAPI\ZagrosRealState-API\ZagrosRealState-API.Services\bin\Debug\netcoreapp3.1\ZagrosRealState-API.Services.dll
+C:\Users\iDevTeam\Desktop\Project\WebProject\Zagros RealState\RealState_WebAPI\ZagrosRealState-API\ZagrosRealState-API.Services\bin\Debug\netcoreapp3.1\ZagrosRealState-API.Services.pdb
+C:\Users\iDevTeam\Desktop\Project\WebProject\Zagros RealState\RealState_WebAPI\ZagrosRealState-API\ZagrosRealState-API.Services\obj\Debug\netcoreapp3.1\ZagrosRealState-API.Services.csprojAssemblyReference.cache
+C:\Users\iDevTeam\Desktop\Project\WebProject\Zagros RealState\RealState_WebAPI\ZagrosRealState-API\ZagrosRealState-API.Services\obj\Debug\netcoreapp3.1\ZagrosRealState-API.Services.AssemblyInfoInputs.cache
+C:\Users\iDevTeam\Desktop\Project\WebProject\Zagros RealState\RealState_WebAPI\ZagrosRealState-API\ZagrosRealState-API.Services\obj\Debug\netcoreapp3.1\ZagrosRealState-API.Services.AssemblyInfo.cs
+C:\Users\iDevTeam\Desktop\Project\WebProject\Zagros RealState\RealState_WebAPI\ZagrosRealState-API\ZagrosRealState-API.Services\obj\Debug\netcoreapp3.1\ZagrosRealState-API.Services.csproj.CoreCompileInputs.cache
+C:\Users\iDevTeam\Desktop\Project\WebProject\Zagros RealState\RealState_WebAPI\ZagrosRealState-API\ZagrosRealState-API.Services\obj\Debug\netcoreapp3.1\ZagrosRealState-API.Services.dll
+C:\Users\iDevTeam\Desktop\Project\WebProject\Zagros RealState\RealState_WebAPI\ZagrosRealState-API\ZagrosRealState-API.Services\obj\Debug\netcoreapp3.1\ZagrosRealState-API.Services.pdb
