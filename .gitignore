@@ -2,10 +2,10 @@
 ZagrosRealState-API.Common/bin
 ZagrosRealState-API.Common/obj
 ZagrosRealState-API.DataAccessLayer/bin
-ZagrosRealState-API.DataAccessLayer/bin
+ZagrosRealState-API.DataAccessLayer/obj
 ZagrosRealState-API.Presentation/bin
-ZagrosRealState-API.Presentation/bin
+ZagrosRealState-API.Presentation/obj
 ZagrosRealState-API.Repository/bin
-ZagrosRealState-API.Repository/bin
+ZagrosRealState-API.Repository/obj
 ZagrosRealState-API.Services/bin
-ZagrosRealState-API.Services/bin
+ZagrosRealState-API.Services/obj
