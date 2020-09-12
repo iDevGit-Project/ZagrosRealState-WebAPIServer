@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kIzV7HqIPd3kizdTwiOj1WAAjE5cSSRwvRBTTL6ooUqVrf2PQL8FEwbw8S2U0F33sQn5yAK3uZbjXrU3khevDg==",
+  "dgSpecHash": "YM4CyNTb9vJitUNt3lmwjo5iNZijXdjwOtJ6WCRoCXKztg31BluGHcSPjHtK7OumlYqVKxXzYYJ2ikoMfHb9MQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iDevTeam\\Desktop\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API\\ZagrosRealState-API.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API\\ZagrosRealState-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iDevHome\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\iDevHome\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

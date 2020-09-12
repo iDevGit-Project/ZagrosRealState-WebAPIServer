@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\iDevTeam\\.nuget\\packages\\": {}
+    "C:\\Users\\iDevHome\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iDevTeam\\Desktop\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API.Presentation\\ZagrosRealState-API.Presentation.csproj",
+      "projectUniqueName": "E:\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API.Presentation\\ZagrosRealState-API.Presentation.csproj",
       "projectName": "ZagrosRealState-API.Presentation",
-      "projectPath": "C:\\Users\\iDevTeam\\Desktop\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API.Presentation\\ZagrosRealState-API.Presentation.csproj",
-      "packagesPath": "C:\\Users\\iDevTeam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iDevTeam\\Desktop\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API.Presentation\\obj\\",
+      "projectPath": "E:\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API.Presentation\\ZagrosRealState-API.Presentation.csproj",
+      "packagesPath": "C:\\Users\\iDevHome\\.nuget\\packages\\",
+      "outputPath": "E:\\Project\\WebProject\\Zagros RealState\\RealState_WebAPI\\ZagrosRealState-API\\ZagrosRealState-API.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\iDevTeam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iDevHome\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
